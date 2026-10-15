@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.bibliasacra.app",
+      "sha256_cert_fingerprints": [
+        "14:6D:E9:7D:0F:52:AB:FC:0E:98:98:C0:B0:96:A7:24:99:98:2F:E9:9C:5D:8A:28:C0:DF:99:B7:88:80:5A:F3"
+      ]
+    }
+  }
+]

@@ -1,0 +1,8 @@
+{
+  "name": "Biblia Sacra",
+  "description": "A modern, distraction-free Catholic Bible reading app featuring the complete 73-book canon, CPDV and DRB translations, audio text-to-speech, highlights, bookmarks, quote generator, and rich themes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
